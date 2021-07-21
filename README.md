@@ -1,8 +1,10 @@
-## Next Basic Boilerplate
+## Next Redux Chakra Boilerplate
 
 - React
+- Redux - RTK/RTK-Query
+- Chakra UI
 - Next
-- Eslint
 - Typescript
+- Eslint
 - Prettier
 - Yarn 2 - PnP/No-Installation
