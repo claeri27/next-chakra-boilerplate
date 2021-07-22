@@ -1,4 +1,6 @@
+import React from 'react'
 import Head from 'next/head'
+import { Box } from '@chakra-ui/react'
 
 export default function Home() {
   return (
@@ -8,7 +10,7 @@ export default function Home() {
         <meta name="description" content="**app description here**" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div>stuff goes here</div>
+      <Box>stuff goes here</Box>
     </>
   )
 }

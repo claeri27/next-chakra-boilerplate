@@ -1,7 +1,6 @@
 ## Next Redux Chakra Boilerplate
 
 - React
-- Redux - RTK/RTK-Query
 - Chakra UI
 - Next
 - Typescript

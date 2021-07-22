@@ -13,6 +13,10 @@
     "yarn:setup": "yarn set version berry && yarn plugin import typescript && yarn plugin import interactive-tools && yarn && yarn dlx @yarnpkg/sdks vscode"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.6.5",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^4",
     "next": "11.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
