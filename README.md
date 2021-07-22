@@ -1,4 +1,4 @@
-## Next Redux Chakra Boilerplate
+## Next Chakra Boilerplate
 
 - React
 - Chakra UI
